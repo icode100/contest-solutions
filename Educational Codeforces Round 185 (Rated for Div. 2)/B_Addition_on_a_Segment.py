@@ -1,3 +1,5 @@
+# https://codeforces.com/contest/2170/problem/B
+
 '''
 * the maximum possible r-l+1 can be N-nums.count(0)
 * for some i-th operation we add r-l+1 to the sum of elements 
